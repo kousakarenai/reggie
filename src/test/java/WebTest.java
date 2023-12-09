@@ -6,5 +6,6 @@ public class WebTest {
     {
         System.out.println("hello");
         System.out.println("OK");
+        System.out.println("good");
     }
 }
